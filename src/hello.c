@@ -3,6 +3,6 @@ int main()
 {
   
   // Hello world
-  printf("Hello, ECS4210 team!\n");
+  printf("Hello, ECS4210 team update!\n");
   return 0;
 }
