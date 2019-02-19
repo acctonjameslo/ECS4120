@@ -1,3 +1,1 @@
-printf"hihi!!";
-
-return 0;
+123
